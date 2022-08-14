@@ -26,3 +26,5 @@ Results and Conclusion: The proposed method’s performances and its alternative
 ### Training
 For training and evaluating please run codes in the related jupyter files.
 
+# Reference
+https://github.com/divamgupta/image-segmentation-keras
