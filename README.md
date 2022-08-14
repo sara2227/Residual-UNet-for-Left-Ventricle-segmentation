@@ -11,3 +11,17 @@ Results and Conclusion: The proposed method’s performances and its alternative
 <img src="/images/Result.png" alt="Alt text" title="Optional title">
 
 
+## Getting Started
+
+### Prerequisites
+
+* Keras 2.0
+* opencv for python
+* Theano / Tensorflow / CNTK
+
+  $ pip install -r requierments.txt
+  $ python setup.py install
+  
+### Training
+For training and evaluating please run codes in the related jupyter files.
+
