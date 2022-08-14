@@ -1,0 +1,6 @@
+numpy
+h5py
+tqdm
+opencv-python
+tensorflow==1.15
+keras==2.2.4 
