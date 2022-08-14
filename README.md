@@ -20,6 +20,7 @@ Results and Conclusion: The proposed method’s performances and its alternative
 * Theano / Tensorflow / CNTK
 
   $ pip install -r requierments.txt
+  
   $ python setup.py install
   
 ### Training
