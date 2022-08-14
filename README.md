@@ -2,6 +2,7 @@
 This repository related to our article: 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8382035/ in which a new concept called residual learning is utilized to improve the performance of deep learning schemes against gradient vanishing problems. For this purpose, the Residual Network of Residual Network (i.e., Residual of Residual) substructure is utilized inside the main deep learning architecture (e.g., Unet), which provides more significant detection
 indexes. 
+
 <img src="/images/ROR_Unet.jpg" alt="Alt text" title="Optional title">
 
 Results and Conclusion: The proposed method’s performances and its alternatives were evaluated on Sunnybrook Cardiac Data as a reliable dataset in the left ventricle segmentation. The results show that the detection parameters are improved at least by 5%, 3.5%, 8.1%, and
